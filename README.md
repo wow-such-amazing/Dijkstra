@@ -10,3 +10,5 @@ To understand how does this algorithm works, I have created **VisualizedDijkstra
 
 If you need only realization of the algorithm without visualization then run **Dijkstra.playground.** It contains necessary classes and couple functions to create random graph for algorithm testing.
 
+## Video
+[YouTube](https://youtu.be/PPESI7et0cQ)
