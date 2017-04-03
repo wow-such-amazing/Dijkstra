@@ -15,8 +15,8 @@ Click the link: [YouTube](https://youtu.be/PPESI7et0cQ)
 
 ## Screenshots
 
-<img src="Screenshots/screenshot1.png" height="400" />
+<img src="Screenshots/screenshot1.jpg" height="400" />
 
-<img src="Screenshots/screenshot2.png" height="400" />
+<img src="Screenshots/screenshot2.jpg" height="400" />
 
-<img src="Screenshots/screenshot3.png" height="400" />
+<img src="Screenshots/screenshot3.jpg" height="400" />
